@@ -51,7 +51,7 @@ Arahkan git clone untuk menyimpan di folder internal yang sudah dibuat, cara
 
 Selesai 
 ## Boleh dicoba
-[![TANYADEBOT](https://img.shields.io/badge/telegram-KLIK-DISINI-green?style=for-the-badge&logo=telegram)](https://t.me/TanyadeokaBot)
+[![TANYADEBOT](https://img.shields.io/badge/Telegram-Klik--Disini-blue?style=for-the-badge&logo=Telegram)](https://t.me/TanyadeokaBot)
 ## contact
 # De Oka
 
