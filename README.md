@@ -25,7 +25,7 @@ Silakan ubah API pada OPENAI dan Telegram
 
 ## Installation di PC/Laotop
 Buat folder baru untuk menyimpan file di folder tesebut git bash
-  1. git clone https://github.com/ilham-mulia/BotTelegramOpenAI
+  1. git clone https://github.com/DeOkanee/TANYADEBOT.git
   2. cd TANYADEBOT
   3. pip install -r permintaan.txt
   4. python main.py 
@@ -45,7 +45,7 @@ Arahkan git clone untuk menyimpan di folder internal yang sudah dibuat, cara
 - cd storage/shared
 - ls
 - cd "namafile"
-- git clone 
+- git clone https://github.com/DeOkanee/TANYADEBOT.git
 - ls
 - python3 main.py
 
